@@ -1,0 +1,13 @@
+{
+  "private": true,
+  "name": "colyseus/.github",
+  "type": "module",
+  "version": "0.0.1",
+  "scripts": {
+    "build-sponsors": "sh build-sponsors.sh"
+  },
+  "dependencies": {
+    "sponsorkit": "^0.8.8"
+  }
+}
+
