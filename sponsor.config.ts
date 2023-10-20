@@ -3,20 +3,20 @@ import { POKI_LOGO } from "./sponsor.raw.logos";
 
 export default defineConfig({
 
-  // onSponsorsReady: (sponsors) => {
-  //   sponsors.unshift({
-  //     sponsor: {
-  //       type: 'Organization',
-  //       login: 'poki',
-  //       name: 'Poki',
-  //       avatarUrl: POKI_LOGO,
-  //       websiteUrl: "https://developers.poki.com/",
-  //       linkUrl: "https://developers.poki.com/",
-  //     },
-  //     monthlyDollars: 200,
-  //   })
-  //   return sponsors;
-  // },
+  onSponsorsReady: (sponsors) => {
+    sponsors.unshift({
+      sponsor: {
+        type: 'Organization',
+        login: 'poki',
+        name: 'Poki',
+        avatarUrl: POKI_LOGO,
+        websiteUrl: "https://developers.poki.com/",
+        linkUrl: "https://developers.poki.com/",
+      },
+      monthlyDollars: 200,
+    })
+    return sponsors;
+  },
 
   // includePrivate: true,
 
