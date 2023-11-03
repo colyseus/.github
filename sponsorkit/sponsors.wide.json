@@ -95,6 +95,24 @@
   },
   {
     "sponsor": {
+      "avatarUrl": "https://c10.patreonusercontent.com/4/patreon-media/p/user/54819916/19a079263b9d437781de3a44a836712b/eyJ3IjoyMDB9/1.png?token-time=2145916800&token-hash=qwsJaQj_8lHRS6s_5_onagbKGIhsLQfrsEqIWg1wOsg%3D",
+      "login": "ItsTexMex",
+      "name": "ItsTexMex i",
+      "type": "User",
+      "linkUrl": "https://www.patreon.com/user?u=54819916",
+      "avatarUrlHighRes": "data:image/PNG;base64,iVBORw0KGgoAAAANSUhEUgAAAHgAAAB4CAMAAAAOusbgAAAAPFBMVEVMaXFonzhonzhonzhonzhonzhonzhonzdonzhonzhonzj///5hmi5+rVRqoDrs8+bF2rGNtmjJ3LeHs2Ewo7e3AAAACnRSTlMA2Bj4TpxtvuwzToMlVgAAAAlwSFlzAAALEwAACxMBAJqcGAAAAolJREFUeNrNWwuW3CAMg/CxcSdsP/e/a99Mptu3bTObyBBVF9CTEWCMHcJptFyLRNVkllSjlJpbmIxWJdo/EUudxb7UovYSWuoynDaXZEcgdWiEP9P6UfeomDexk5A8IsanaR9e81K3aCDEE/ClmAMFtnhVc0Exhy9ibgggOqsNgJ42WbVBKJeHGQl3UxsIbRze48w52WCkzOE9xjyD9whzm8Jrltq1vjrqsGUar5m+2s9iEyH7vMWmYvf0zDYZ+foFfrnMYtMhUy/CV6iMQO8Eu9gl+MvZzS7CnwdYvIpYLt7Ce5tZriMWkuCPq4wI7htckiFL3za4JCN7uK/f7vgBSP69l4FD67Z+/XLH23o7Ta0Oa/Xb+h0mft9RiLU8in/Za0mQYgdxWvD70EX8vB0hT/uIC+ppr2KFTw+n4scZgqU8TuKKXkxexQKnAE7iGEIwhmKDky0vcQNzALfijObxXuIK5tNuxQVN87zEAu4mt+IYlKMYJXYr1pA4ihN2cPkVG0hsfuLEUZxYrlaeqyNHsYBHZvcTF47iAl6L3X8tZo7iDKY+3Z/6BI5iNL3tA9LbwlAs6BOmD3jCNIbihj5T+4BnKrbIIx7m9XrFFS6+2IjiC3JB9RHlJui4dhFnvKTYh5QUEV97SorFUTa+K357ACBurkJ5Xzfg1oLthRbKWxjyN+ASTPz+ue7/R/6XLz7apybvG5f2cc37quc1J9DaMXgNKLyWm6nLHBdOe9NnjXusRjJe6xyvWXBU1+15Xl5D6GjmeKK3nNX0y2tzJjZ281rZec37xHEFaBzlPcreiRiMesg0DGkIJ/DGjrZtTRm02izOGS17xnx/mE7q/FG+5/igmik+PvgT99a/4OMgoJkAAAAASUVORK5CYII=",
+      "avatarUrlMediumRes": "data:image/PNG;base64,iVBORw0KGgoAAAANSUhEUgAAAFAAAABQCAMAAAC5zwKfAAAAOVBMVEVMaXFonzhonzhonzdonzhonzhonzhonzhonzhonzhonzhpoDlimy////92qErX5sr8/fvK3bm50qPGrw5lAAAACnRSTlMAbR+3lNDvC+BK2/ni0wAAAAlwSFlzAAALEwAACxMBAJqcGAAAAZdJREFUeNq1mY2SgyAMhPkNkFi1ff+HvWlvbpyzrS667gN8kwQIYXFuW6H5FHMVM6k5Jt+CO67SUtY35dTKIVxLol8kqXUH56tuqvrCxHUiG4B7IbHEQ1RYEVjzJtoh2QuyJO1U2qxkydqtvEEMB3iq+WshQ9VDqoHL+0YsWQ/rUx3P8D4Sk55SetvPelKrHR7kLFD+L0zU04rUhFdJl8oA1mWlvVLkOwI0M8NDJAW4hAhUcHhqP0RwiU3HxzRNj2E364YdOhvG6Tbf7vvA1wEswgNKgTY1DnzlnJjAZ86ZCczOBWUCtSB9oQfYkGPSA/RI6+8BJqS19gAjsMhdwIx0hh5gdcIFijMu0NhA4adMXxT6tqFvbPrRozcHevuiN1j6FcC/pOjXKP2ip48iwLAEAxs2ztkw3ud53gdWeOC08SngmMAjMTRwLlM7ECIyZPvrnhX0hw//acZ/PNKft/wH+DmLwGK53sTg2yx8I4hvVR2rY9w2Osl2H9+QvMAy5Zu6F9jOfGP8t5ZU6/6Kz4U/6Or7Yw/2A/U8yPQBsp8fAAAAAElFTkSuQmCC",
+      "avatarUrlLowRes": "data:image/PNG;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAMAAAAp4XiDAAAAOVBMVEVMaXFonzdonzhnnzhonzhonzhonzhpoDlonzhonzdonzhonzhonzhhmy/7/fqItGLJ3bhzpkbr8uT+x5FYAAAADHRSTlMAW9mllQnu/hy8MHzQ9a7ZAAAACXBIWXMAAAsTAAALEwEAmpwYAAABAUlEQVR42q2W2xKDIAxEw0UCGkrt/39sp47ttBoQdrqPMocYCJsQnRSNTzYwB5u8iXSpuFj5kV3a1OxYTuI01yM4qchVIpkgVQWjAJOXpvx0IpJcKE2jxJHpIQ6Mly75r7OSTn3OLYZeJLzvx0m33F4l6iIza5/nRpCcczVMVHdbSylq8Fc2i7aQy+12z9pmCxHZMcQSRRlDJOrX2EKMXistxFMaRZKafROxFEaRQDyKMIIAPwakDxwycJVAwQBlCRQ/8sS0h8y5PHRke8i6XfC6rnVX0k1JVIPZTWnE+jxusICNI80CaUlA40PaK9LEkVFhC8QVwsX/jT3QcNU1wj0B+mlbvebP3TYAAAAASUVORK5CYII="
+    },
+    "isOneTime": false,
+    "monthlyDollars": 30,
+    "privacyLevel": "PUBLIC",
+    "tierName": "Patreon",
+    "createdAt": "2023-04-04T03:06:07.791+00:00",
+    "provider": "patreon"
+  },
+  {
+    "sponsor": {
       "avatarUrl": "https://c8.patreon.com/3/200/9169984",
       "login": "Brian",
       "name": "Brian Hay",
