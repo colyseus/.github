@@ -1,9 +1,23 @@
 import { defineConfig, presets } from 'sponsorkit';
-import { POKI_LOGO } from "./sponsor.raw.logos";
+import { BLOXD_LOGO, POKI_LOGO } from "./sponsor.raw.logos";
 
 export default defineConfig({
 
   onSponsorsReady: (sponsors) => {
+    // add bloxd logo from mcarth
+    const mcarth = sponsors.find(s => s.sponsor.login.toLowerCase() === 'mcarth');
+    if (mcarth) {
+        mcarth.sponsor.type = 'Organization';
+        mcarth.sponsor.login = 'mcarth';
+        mcarth.sponsor.name = 'Bloxd';
+        mcarth.sponsor.websiteUrl = "https://bloxd.io/";
+        mcarth.sponsor.linkUrl = "https://bloxd.io/";
+        mcarth.sponsor.avatarUrl = BLOXD_LOGO;
+        delete mcarth.sponsor.avatarUrlHighRes;
+        delete mcarth.sponsor.avatarUrlLowRes;
+        delete mcarth.sponsor.avatarUrlMediumRes;
+    }
+
     sponsors.unshift({
       sponsor: {
         type: 'Organization',
@@ -14,7 +28,14 @@ export default defineConfig({
         linkUrl: "https://developers.poki.com/",
       },
       monthlyDollars: 200,
-    })
+    });
+
+    // remove
+    const bubbleboxIndex = sponsors.findIndex((sponsor) => sponsor.sponsor.login.toLowerCase() === "bubbleboxgames");
+    if (bubbleboxIndex !== -1) {
+      sponsors.splice(bubbleboxIndex, 1);
+    }
+
     return sponsors;
   },
 
