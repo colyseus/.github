@@ -7,6 +7,7 @@
     "build-sponsors": "sh build-sponsors.sh"
   },
   "dependencies": {
+    "mime": "^4.0.1",
     "sponsorkit": "^0.8.8"
   },
   "devDependencies": {

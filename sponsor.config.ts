@@ -1,9 +1,23 @@
 import { defineConfig, presets } from 'sponsorkit';
-import { BLOXD_LOGO, POKI_LOGO } from "./sponsor.raw.logos";
+import { BLOXD_LOGO, POKI_LOGO, PIXELS_LOGO } from "./sponsor.raw.logos";
 
 export default defineConfig({
 
   onSponsorsReady: (sponsors) => {
+    console.log(sponsors.map(s => ({login:s.sponsor.login, name:s.sponsor.name})));
+    // pixels.xyz
+    const pixels = sponsors.find((sponsor) => sponsor.sponsor?.login?.toLowerCase() === "lukepushlabs");
+    if (pixels) {
+      pixels.sponsor.linkUrl = "https://pixels.xyz/";
+      pixels.sponsor.websiteUrl = "https://pixels.xyz/";
+      pixels.sponsor.name = "Pixels";
+      pixels.sponsor.avatarUrl = PIXELS_LOGO;
+
+      delete pixels.sponsor.avatarUrlHighRes;
+      delete pixels.sponsor.avatarUrlLowRes;
+      delete pixels.sponsor.avatarUrlMediumRes;
+    }
+
     // add bloxd logo from mcarth
     const mcarth = sponsors.find(s => s.sponsor.login.toLowerCase() === 'mcarth');
     if (mcarth) {
