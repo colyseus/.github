@@ -39,6 +39,25 @@
   },
   {
     "sponsor": {
+      "login": "zeroxand",
+      "name": "0x&",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/105687119?v=4",
+      "websiteUrl": null,
+      "linkUrl": "https://github.com/zeroxand",
+      "type": "Organization",
+      "avatarUrlHighRes": "data:image/PNG;base64,iVBORw0KGgoAAAANSUhEUgAAAHgAAAB4CAMAAAAOusbgAAAAVFBMVEVMaXH///8AAAD8/Pz////////////39/f///////8DAwP+/v4ICAhlZWXr6+uGhoba2tqUlJR7e3sVFRXh4eFWVlYsLCxOTk4PDw+jo6O5ubnHx8dMYJpQAAAACnRSTlMA////G5ml/c9Y1e70PwAAAAlwSFlzAAALEwAACxMBAJqcGAAAAxtJREFUeNrtm+maqjAMhknrWGwrm6Co93+f50lANosWR8mcmX6/WBpe0iVdnjaKBtrstrGS8AFJFW93m8itXQwfVrxjwbrRX7CSvkbYTQyrKd7wcEfkVbkA8erlOynnHayuHUdGd5nN4HDjcswBjqNoAyza8OQ05vWWB7zlKWIsZMUDVpHkAcsImBTAARzAARzAARzAAfxTwHKiZd/0MvxJHhtQ+5GqM/j7bEAVneFl3tABlpDUYiAt9ovAyaEzTBeByVT3ssvBN8MFYIM14h6s/GrY2Nq+4vHKWW0gKVDpRPjseQ27sy6uvmAJpRZaHBIww4e50FqcnoIlZGhdj6y9wVZbBA+CgIJcWCsqHzBZl7A4gDzyuPqwx78GLCFL8zy9TH9mBbC7aq4CtpYJzObxcrCBJMuypGjBBlSGUsMvN2mykqyPqGuZDdRYn+iZ9AVL2Atrrca4W4GUcNXWWpsNf19CKmorjmAMGKWUTA6UqJOmuI0Xw7x4DtZtwG/AdDMBk0vHPpNGXcxQ9reA03eCJYBSSrnL+IrviC0xTfHOMpYgj9jwc1Bq0JwQpBS9ueCP7EVdi6L5R2xOtbX6UDapWt2aE16b57WawFqLM35+1I4NAL0hcIVXRfvmLe34r4GplKgkZ8BUxkpBJWzdDem+CxZCU+S7lE10vI/V+KKsDsfjIaeQ2jW+74Kblpt1jjg6CQmntiTe10ncxAGmicA8mIaep6YKDOYY/7HHNs3zPO/rzBSc4hyU0tCM9PLOdjw/AvlwAFkf/HgKY+hJ30lUeFW0NcwxhWmsv+fx6ZMeP5mmGii72yJD8PmWvDhjf+yyzk8eYOcYop+YvzwC8QA/XIpAcBNalJSmCyUFFjSBHdZaay/ww8WXHjzx+AZ2WLef8AHPLze9PMr09XhugU1CRg/KMfhS7fdV2oH7BbbBJ3IP8DpauIjaBBDjSj1v7VwNCevVARzAARzAARzAAfyXwGybBdm2R7JtCGXbAsu26ZdtmzPbxm6+rexsm/f5jiuwHdDgO5LCdwiH7dgR30ErxqNlfIfp1j4++A/1m4Ou3nKy4QAAAABJRU5ErkJggg==",
+      "avatarUrlMediumRes": "data:image/PNG;base64,iVBORw0KGgoAAAANSUhEUgAAAFAAAABQCAMAAAC5zwKfAAAAY1BMVEVMaXH////////////////////////6+vr///////////////////8BAQH+/v78/Pyampru7u5aWloWFhYMDAxISEg8PDxjY2PR0dGkpKS6urrg4OB0dHSOjo6pqanp6ekzMzO7JarfAAAADHRSTlMAbB5ut02b+xrYaaqHMfKUAAAACXBIWXMAAAsTAAALEwEAmpwYAAACcUlEQVR42u2Z65LiIBCFcXRsnW1uAZOQkGTe/ymnEHIbg9GR2dqtyvlngZ+NfWiohhCvt93hDPhDwfmweyNTnY4MXxT7M0G+AyYQvPe8PcMkYvsQXyIeIrvGeAJMJjgRQo6YUEdC3lhKIDuRPSbVjhzSAg/knBZ4JpAWCAQTawNuwA34LwD5oJW6y2KzfjVChjK7BOUV8vi3ODZ5ZBaZrgI7RXsJhCiRA2Z+VnsPiGwOvBvhOpBhLYwosl5NKypcygxDaE1r/awyDuQoKFUyMDgWlOaLQXKs9RDanSx7YBeMA2tAg7BimycjNMMYl1LydECOlVZq8lcuA8clu3V920jTJXPAilJa4jDrxaS4CD3wToQMpRAm98C2adrwIwzBiKZElLYoGhFkLKXUiqbfMwtAjrV3rQN+joF631v3aTD2qMtdoB6A+RJw3HoPABEklEqrALxQeoGrL0BCrbQDcil5RpUOopRqRbMo0FL92UmWeaCUvKJKl4iCalVLCQwd1zj7OfHWJQUkRHbK1S8Kxiz3acTmupHYrQ9XspwWqAtniMbwEciwa4SwRWGFMPAscCiEM2MzdO6xA+JJYONKdTKgUrcR8q6TudYWumtVeS4pNfhSNE+K1hXHhuofZZnNC+xQTkKWo9Xm4XoYsc16tYkcUjbLrDFGIpZ+uMXpIZVlRR4BLh2jjD1YbZaBCwd9D3SHURherDbRCL9fRRjaPLdDhDK75MFV/irSq14G/pXr3M0hxWbXuaD/+Qa7ATfgBlwGJm8EJW9VJW+m7dICP9I3JJO3TNM3dZO3nRM2xne/1bpP87hwPM3fK158/vjocV91HD3f1SKyHAAAAABJRU5ErkJggg==",
+      "avatarUrlLowRes": "data:image/PNG;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAMAAAAp4XiDAAAAaVBMVEVMaXH///////////////////////////////////////////////////8BAQH9/f36+vp9fX2ioqLZ2dlycnJra2tFRUUmJiYVFRXu7u7ExMTl5eX19fWHh4fR0dG3t7eVlZU9PT1bW1uvc/xcAAAADXRSTlMAzs20zFcg57EiWlkFIbXesgAAAAlwSFlzAAALEwAACxMBAJqcGAAAAbdJREFUeNrtlt1yqyAUhWmbRNvO/lEwgCCo7/+QHdEY4/S0wTmXXXeInwsWG0QIIcTHW0Hwq6goP8Ws9xd4Wq/viSggQ8VFCPECWToJ8QGZOou3XKQURS5SCMpFSEC2/pAlu0XfpLp7fNyFQDZKKdVI2PkwtI1qKn9/viIRk9o9QtAjorE7hCBUXZXUVWELEbSpp/PATBuEocbr9CbBFWvgLVJhszPeIMzMM3ILiIgT4pmBY+1m9kkXAq9v89wiRNINWIML6XtEMljojHJBShk01jKF8ODCGhFrqFIjNSfLHlf10wi2c3FOmwnpcLQOyLoBI1jfo5mEaLDfuUhjgp8GZm3EAaw2rfXQofLOOSs1Rut3SEB0MKSxRNTgDAbgn6Zv9FVKvyRmZdRDK/0S8pS6nRB+QBD1PWQCOdfIjyHrOt6W0kMYm7oeR7cMjJnJfrsud5ff55LKUq1lGVXX1Wz7rlIB4lKwyjwgD8XP/1zKPbJuMYY4TqtMxF0T5i2Wum7b7z8dF8Rr8dOmh+jvgD2IHPjxHfi9lrlIKT5zkbMQr3nE6di1R1xOGR6X5UZ2Lp+8wp2n178AXhGKmcy+8UIAAAAASUVORK5CYII="
+    },
+    "isOneTime": false,
+    "monthlyDollars": 100,
+    "privacyLevel": "PUBLIC",
+    "tierName": "$100 a month",
+    "createdAt": "2024-08-07T02:54:28Z",
+    "provider": "github"
+  },
+  {
+    "sponsor": {
       "login": "virtuallandmanager",
       "name": "Virtual Land Manager",
       "avatarUrl": "https://avatars.githubusercontent.com/u/132248767?v=4",
