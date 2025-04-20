@@ -264,6 +264,25 @@
   },
   {
     "sponsor": {
+      "login": "kadaxo",
+      "name": "Kadir",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/105596590?v=4",
+      "websiteUrl": null,
+      "linkUrl": "https://github.com/kadaxo",
+      "type": "User",
+      "avatarUrlHighRes": "data:image/PNG;base64,iVBORw0KGgoAAAANSUhEUgAAAHgAAAB4CAMAAAAOusbgAAAAOVBMVEVMaXHw8PDw8PDYW7fw8PDw8PDw8PDv5+3w8PDw8PDw8fDXVbXw7/DpxN/y+fTaZ7vZZLrWUbPWS7Et8uERAAAACnRSTlMAaIT/pk4Y+8kzcA4ATwAAAAlwSFlzAAALEwAACxMBAJqcGAAAAxFJREFUeNrFm4luwyAMhgOF2LhOj73/w07pkR6hgYANv7RJkyY+YcABH8OwW8FbhwgAzACA6KwPg7KCcch3EdH8Q48/0Rkt+mgc8Jto+fUUODOKY73jLKERtfDnXLcFLohheafQS9gYuUDV6FCEvaFrDD5arpAr3uIGarhMULbDR+RqYcGkPdRzmWD3JrMsJNvczE/HusfcAVhQEPpwiXLJXpQ7Wztvi3mWFhH7HtybfNv1zd9hWtwUeVTjEsHWeUZWEzE28JM7vadnZfnWC/y09o9lRlZXdJkNN5CJGZoaKGJsN7/A1MVu5bIIzpeztg7T6duBIcHleNDWdTrh9xFuBf46zNgOjF8+qxmYw6fvaAd+m3LgluC3Kbu24NdZhrZg+PgcNgQvJ8q1Bj9sPXJrMI9v38OmYPOydFuwW/Z0YzA8vUdr8M2HmB5gsyxxWzC51+Wy7YznDwVvgY8V2gLzsrfi4ONUocsWOCzvlij4Op2KxfHxlteMTYDLH8Sb49nnphYHJ8Zzy4upMRj7gYG6gGGAHjMm6gRmgoH7zJj6gGef2c3UfcA9d3UfB0IdPVe3j4TtA7bJi4AS2G9fffTAYfuypwdOXG/VzjEmLvRqM3aJJ4wa2CQebWrgkHimaoEh9TDXArtUKEILbFLBFy3wmAo3KYFdMsCmBPbJkKIOGNJBVB2wS4eNdcAhHShXAWNGakAFHDKSIRpgzEn/aID9KuF1Xv3f4TiduDiNGB8P1ym+w3UVqvqbKjKO0fFWKb7BcSxWVZFHvMTGAxdJ42bGqnIVjZHFcuaxxDXUgdcDmrxUPUmDMbM4QRr8qwbFa4N9bgGKMNhml9zIgjG/yEgUvF00+EkWBNOugi5BcLpg0OuA9xXtyYHzyhRBGpxbgRtAFry/FFUETHtqyx9FvyLgnTXWVgq8r8z5scWi96Zczfc1hoLugXG+8kbuTbn6m6+yZfX7BrgmtwhQ3J4y2lOFXE1HTqcGjXK0SDdMpyacoV/b0f1Yd2m0um9xk5q3SmvZw+avZrrvmeo1073oIu2D/x3qf4titMDcAAAAAElFTkSuQmCC",
+      "avatarUrlMediumRes": "data:image/PNG;base64,iVBORw0KGgoAAAANSUhEUgAAAFAAAABQCAMAAAC5zwKfAAAASFBMVEVMaXHw8PDw8PDw8PDw8PDw8PDw8fDv5Ozw8fHw8fDw8fHYW7fw7/DXVrby+/TYXLfaabzWT7PYXbjko9Pr0uTovt3jotLWS7Fzuh52AAAACnRSTlMAbZCaGgi7/dtJMipF3AAAAAlwSFlzAAALEwAACxMBAJqcGAAAAi1JREFUeNrVmcvWqzAIhU2MgVj0b6217/+mZ9VevEUlgcnZk478FpQYYFsUx3LBWI8IRIDorQmuyFcVLNJP9ecXbaiycKEE2hGUITk4g3QoNJUmLhEZGLgRyUvceWLLM2oegBIEZ0FWlhJVVlrpfo/nUdoOKV01OlXeq9pOl7dHzOfFiZUngfy21lbCq8luzjMJtTrhDqRAWP6NvhbLLxMGuWZJV/i4StXdcaq0aR+3RqbLc2jNFGD7aP5k6m5D+wvR0At4EekFpG+IqAXE35lWAn5Od6kHLMeSgB4Qqs9brAUcc7aaQDvWWBGIReFoC+yY2gLJvS/CFfDGVAQYCrMFNsOdpaHbAs376l8A/5q+ZYmu01NfoC18DFizGglEgH4s8jbCbCDqA0EbSLpA0gfqplzjf1Blrwv0O69eNtBGLgcR0ESuLxEwRC5YEdBFWoAEiLEmJQHaWBuVAEOs0QuAY6PfjCICYBkdlgTAEB3n8oEYHzjzgWYxEsu73jS1m02ErM1kDTTztWI+VjQP3mLSX5spiucwWyuKAP1M7KXlMX9q6Wf41YjB0q1v6+kpv788wvXC2k0WxVstj/P1dvFnH2h5vML+Ap4FtAcWQQawjlgERYX5wGNbJB14YtwkA8+spVQguhMzLRF44iHaEcjbVEagPTNOA9TQPVlryrNvgeGaOg933qIygOfZ5AF5ewqy3Wxt21nfGH8nbjWt+8jHhV9suR8XPjVP/fzxD3G99WpwJqvtAAAAAElFTkSuQmCC",
+      "avatarUrlLowRes": "data:image/PNG;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAMAAAAp4XiDAAAARVBMVEVMaXHw7/Dw8fDw8PDw8PDw8fDw8PDw7u/v6O3w8fHw7u/w8PDw8PDpx+HYW7fw8fHXU7Ty+fTkptTba73hlM3decPccb/+uD6NAAAADnRSTlMAo7jCjBHZ/vwkV15h2QCAEU8AAAAJcEhZcwAACxMAAAsTAQCanBgAAAFpSURBVHjanZbRsoMgDEQBkQTt3CBQ//9T72jVgoLE7lNn2jOQdNlEiIvsSyuDAGiUHq1oympDmYy+p6yE47fHJ1B1qJdUkezLxIBUFQ4lQtaB5ZL6eilFDanT5fqOmupyRhFDiltHoqSeAZg6+tbDxBTs5UjPltxcQrNjKqDdan+7P55mXI+xwEZcQFqO0cQ/JeDaaEOPTjFL8c8QsOKVIrVOpci4lPJFQkUpoldDboiLhCWbIHn3RdRS/ReZynacUsQIzBAovskMQQFPEfgF+eFi5ili8iZzEJX+lTxEp4bhIWNqSx5iU/OzEJM9MRais4fMQmwWFy5SOfF2ZI+LJJTiRKXAW5ych5KQPm6qJd7xvTwHrK895HgO2C3GkXwtJuKEeYyvjU4aU0LgNCw+I6mJqMvgayFdfxmvDURdZ7++R3RxVQAf5lLwzcHDUFlINFZUW0jWtac4vG1rucot2VquPtR4v8L9AyfWbj1oTkjEAAAAAElFTkSuQmCC"
+    },
+    "isOneTime": false,
+    "monthlyDollars": 5,
+    "privacyLevel": "PUBLIC",
+    "tierName": "$5 a month",
+    "createdAt": "2025-04-19T18:18:47Z",
+    "provider": "github"
+  },
+  {
+    "sponsor": {
       "login": "JlR-623",
       "name": null,
       "avatarUrl": "https://avatars.githubusercontent.com/u/202526028?v=4",
