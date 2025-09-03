@@ -4,11 +4,12 @@
   "type": "module",
   "version": "0.0.1",
   "scripts": {
-    "build-sponsors": "sh build-sponsors.sh"
+    "build": "sponsorkit"
   },
   "dependencies": {
     "mime": "^4.0.1",
-    "sponsorkit": "^0.8.8"
+    "sharp": "^0.34.3",
+    "sponsorkit": "^17.0.0"
   },
   "devDependencies": {
     "@types/node": "^20.10.5"
