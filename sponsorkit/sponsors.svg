@@ -47,10 +47,10 @@ text {
 <a href="https://github.com/Bloxdy" class="sponsorkit-link" target="_blank" id="Bloxdy">
   <text x="400" y="633" text-anchor="middle" class="sponsorkit-name" fill="currentColor">bloxd</text>
   
-  <clipPath id="cd28673">
+  <clipPath id="c8dd02a">
     <rect x="375" y="565" width="50" height="50" rx="5" ry="5" />
   </clipPath>
-  <image x="375" y="565" width="50" height="50" href="data:image/webp;base64,UklGRnIBAABXRUJQVlA4IGYBAACQCgCdASpQAFAAPm0uk0YkIqGhMLYpWIANiUAZxY/3bTEMQCgpf9NDUgGZxATYJRBHBO3B8t1opw8w61TaQFCfEBPpe3oNOmOlsBtp/6pdUj8s1XJ5Wqv/13nI4yYA/vfEX9U9S7kfOvuu9L84AtDAJoVWJyUDzl1XgB+hxKA9M10jv0Vxrlr/EpIYqRA47Tpm8OAmbVQ1eW14xPBqyTfq+t/k5w6CgZe4u/4N99+Sr1+MrJpywPd0K9uKiSY/gd/EBtO3kLlr8/6GimZr/Ix/S7yxnvamAwyjyBs63bEMHq4G2cqBaeSMrtOk/3PEMNQZDVD1ENaPP5G8ta5deuuCaSBsIsPfJtG65VQfImY/pHyvfsTpLvlTRIQNJiCGFYmLTplMvhSvbnKOyv47ffnkUfsYLu8q2JWhwiSTohTSST4IIksDN7F4rxce9gSHUgXXNQpk0JLOVOKdrDrgtoreEUFYAAAA" clip-path="url(#cd28673)"/>
+  <image x="375" y="565" width="50" height="50" href="data:image/webp;base64,UklGRpACAABXRUJQVlA4IIQCAABwDgCdASpQAFAAPm0ukkWkJSGZmiRoUAbEsQ4AB1ZtDe18jx6/OEgJ4G3J6pPzJvI/Mn+znq+eh29mG//rPoDnPFV50qk9ZVFVAE3jQn1m+vciuiE/LPyYDVgNfnHhcKrhNIDffd3WBemvG00HN5fVze5sb1AZ52X8JFugAP75gWH095y9QJyUiV4o/SL+uhr8XiaVzT6WUZRIcn9oTn6ZtMJH/Tjf8JfmMfzOROFRkN//z9JAVLkP/jasfwnLns7c+9KHLeER9PMr/8eo44aM+xfoDbAgSLPh3hgyG0A+1YHiH3NxRJWfCkEGhvjAVJHTKkm6nd6IUXGsAZkzIoI3Cbf+B1hWATALHToOh7ZotulxGWDuytEibTQmtdKT3EoG94ZciOoXivOC8ofu/uteGbVnRUgAL8qNAhLFSXx43FnD3xQK6n2yOBmPiPuRr9TpPmgj/h9yJhKmEth3ZeYeVyWJ7w9/Qtp+V8aPgk52/0TI0yyq0xDGY8M3gJPXHwgxIwZzibYp7yY747Li/UXPlUa7+E3Om5aeVTTDq37/iu1yuzLo39NGqFr9v0OCrFD4E8UWYzsK8NZdSOfBW2AODeQZONhYkQTYjxtwUESeuIrGJOjXEWCqNocgPyMNaBG/NJQ7CpPwo1ounGwBO4ugA7y4euTi8AWGqW1bWasNNi3zM3qGFRz/4Fqq71IEfD3aA3CDn//a0fkgzjxGocmSy34JjxwKEM3pijpNJK/tE6G/9yUI8acyzV/6/pFbcM7qdbao8CplNt7AmIMlXh23nAWGu0D1rxwZdPJaDrNB5lGfr/XHgaGZ6Yx+6BpZuFUVYGVKSENHItAAc8hAEpQhpNnAAA==" clip-path="url(#c8dd02a)"/>
 </a>
 <a href="https://wvd.sh" class="sponsorkit-link" target="_blank" id="wvdsh">
   <text x="480" y="633" text-anchor="middle" class="sponsorkit-name" fill="currentColor">Wavedash</text>
